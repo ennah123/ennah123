@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm OuldLakhlifa Ennah</h1>
-<h3 align="center">🚀 Full-Stack Developer | Agile Practitioner | MERN Stack Specialist</h3>
+<h3 align="center">🚀 Full-Stack Developerw | MERN Stack Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/ennah123/ennah123">
