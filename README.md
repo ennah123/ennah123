@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Developer with expertise in both modern JavaScript e
 - 🔭 **Currently working on:** Full-stack applications using Next.js, TypeScript, and Laravel following Agile practices
 - 🌱 **Always learning:** Advanced system design, real-time applications with WebSocket, and performance optimization
 - 💬 **Ask me about:** React, Next.js, TypeScript, Laravel, Agile methodologies, or system architecture design
-- 📫 **How to reach me:** [Your Email/LinkedIn Here]
+- 📫 **How to reach me:** 123ennah@gmail.com
 - ⚡ **Fun fact:** I believe clean code and clear diagrams are the foundation of great software!
 
 ---
