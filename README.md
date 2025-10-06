@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm OuldLakhlifa Ennah</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack Specialist | Laravel Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | Agile Practitioner | MERN Stack Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/ouldlakhlifa-enna/ouldlakhlifa-enna">
@@ -14,13 +14,13 @@
 
 ## 📖 About Me
 
-I'm a passionate Full-Stack Developer with expertise in both modern JavaScript ecosystems and robust backend frameworks. I specialize in building scalable, type-safe applications with cutting-edge technologies.
+I'm a passionate Full-Stack Developer with expertise in both modern JavaScript ecosystems and robust backend frameworks. I specialize in building scalable, type-safe applications using Agile methodologies and proper software design principles.
 
-- 🔭 **Currently working on:** Full-stack applications using Next.js, TypeScript, and Laravel
+- 🔭 **Currently working on:** Full-stack applications using Next.js, TypeScript, and Laravel following Agile practices
 - 🌱 **Always learning:** Advanced system design, real-time applications with WebSocket, and performance optimization
-- 💬 **Ask me about:** React, Next.js, TypeScript, Laravel, or real-time application development
+- 💬 **Ask me about:** React, Next.js, TypeScript, Laravel, Agile methodologies, or system architecture design
 - 📫 **How to reach me:** [Your Email/LinkedIn Here]
-- ⚡ **Fun fact:** I can build everything from pixel-perfect UIs to high-performance APIs!
+- ⚡ **Fun fact:** I believe clean code and clear diagrams are the foundation of great software!
 
 ---
 
@@ -49,13 +49,32 @@ I'm a passionate Full-Stack Developer with expertise in both modern JavaScript e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Technologies & Protocols**
+### **Software Engineering & Methodologies**
+![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🎯 Development Approach
+
+### **Software Design & Architecture**
+- **UML Modeling:** Class diagrams, Sequence diagrams, Use case diagrams
+- **System Design:** Scalable architecture planning and documentation
+- **Design Patterns:** Implementation of proven software patterns
+
+### **Agile Methodologies**
+- **Scrum Framework:** Sprint planning, daily standups, retrospectives
+- **Kanban:** Continuous delivery and workflow optimization
+- **CI/CD:** Automated testing and deployment pipelines
+- **TDD/BDD:** Test-driven and behavior-driven development
 
 ---
 
@@ -74,49 +93,33 @@ I'm a passionate Full-Stack Developer with expertise in both modern JavaScript e
 
 ## 🚀 Featured Projects
 
-### **[Real-time Chat Application]**
-> A modern chat application with real-time messaging using WebSocket and React
-* **Tech:** React, TypeScript, WebSocket, Node.js, Express, Tailwind CSS
+### **[Enterprise System Architecture]**
+> A comprehensive system with detailed UML documentation and Agile development process
+* **Tech:** React, TypeScript, Node.js, MySQL, UML Design
+* **Methodology:** Agile/Scrum with CI/CD pipeline
+* [Live Demo](#) • [Source Code](#) • [Architecture Diagrams](#)
+
+### **[Real-time Collaboration Platform]**
+> Agile-driven development of a real-time collaboration tool with proper documentation
+* **Tech:** Next.js, WebSocket, Laravel, MongoDB, Tailwind CSS
+* **Methodology:** Kanban with automated testing
 * [Live Demo](#) • [Source Code](#)
 
-### **[Full-stack E-commerce Platform]**
-> Feature-rich e-commerce platform with modern UI and robust backend
-* **Tech:** Next.js, TypeScript, Laravel, MySQL, Tailwind CSS, Redux
-* [Live Demo](#) • [Source Code](#)
-
-### **[Python Automation Tool]**
-> Automated workflow tool built with Python and modern web technologies
-* **Tech:** Python, FastAPI, React, TypeScript, Vite
-* [Live Demo](#) • [Source Code](#)
+### **[E-commerce Microservices]**
+> Microservices architecture with UML documentation and Agile delivery
+* **Tech:** Python, Java, React, TypeScript, Docker
+* **Methodology:** Scrum with sprint-based delivery
+* [Live Demo](#) • [Source Code](#) • [API Documentation](#)
 
 ---
 
-## 🔄 Recent Activity
+## 📊 Development Workflow
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="[Your LinkedIn URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[Your Twitter URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="[Your Portfolio URL]">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:[Your Email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Building the future, one commit at a time!</i>
-</p>
+```mermaid
+graph LR
+    A[Requirements] --> B[UML Design];
+    B --> C[Agile Planning];
+    C --> D[Development];
+    D --> E[Testing];
+    E --> F[Deployment];
+    F --> G[Retrospective];
