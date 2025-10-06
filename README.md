@@ -90,36 +90,16 @@ I'm a passionate Full-Stack Developer with expertise in both modern JavaScript e
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### **[Enterprise System Architecture]**
-> A comprehensive system with detailed UML documentation and Agile development process
-* **Tech:** React, TypeScript, Node.js, MySQL, UML Design
-* **Methodology:** Agile/Scrum with CI/CD pipeline
-* [Live Demo](#) • [Source Code](#) • [Architecture Diagrams](#)
+### **[Sahara Location - Car Rental Platform]**
+> A complete car rental system with client booking and admin management interfaces.
+* **Tech:** React, Express.js, Node.js, MySQL, JavaScript, Tailwind CSS
+* **Methodology:** Agile/Scrum
 
-### **[Real-time Collaboration Platform]**
-> Agile-driven development of a real-time collaboration tool with proper documentation
-* **Tech:** Next.js, WebSocket, Laravel, MongoDB, Tailwind CSS
-* **Methodology:** Kanban with automated testing
-* [Live Demo](#) • [Source Code](#)
+#### **Key Features:**
+* **Client Side:** Browse cars, make reservations, view booking history
+* **Admin Side:** Manage cars, reservations, clients, invoices, and finances
+* **Dashboard:** Analytics for incomes, outcomes, and business insights
 
-### **[E-commerce Microservices]**
-> Microservices architecture with UML documentation and Agile delivery
-* **Tech:** Python, Java, React, TypeScript, Docker
-* **Methodology:** Scrum with sprint-based delivery
-* [Live Demo](#) • [Source Code](#) • [API Documentation](#)
-
----
-
-## 📊 Development Workflow
-
-```mermaid
-graph LR
-    A[Requirements] --> B[UML Design];
-    B --> C[Agile Planning];
-    C --> D[Development];
-    D --> E[Testing];
-    E --> F[Deployment];
-    F --> G[Retrospective];
+* [Live Demo](https://saharalocation.vercel.app) 
